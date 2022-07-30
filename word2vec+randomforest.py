@@ -12,31 +12,6 @@ import gensim
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import precision_score, recall_score
 
-# from sklearn.preprocessing import LabelBinarizer
-# from nltk.corpus import stopwords
-# from nltk.stem.porter import PorterStemmer
-# from wordcloud import WordCloud,STOPWORDS
-# from nltk.stem import WordNetLemmatizer
-# from nltk.tokenize import word_tokenize,sent_tokenize
-# from bs4 import BeautifulSoup
-# import re,string,unicodedata
-# #from keras.preprocessing import text, sequence
-# from sklearn.metrics import classification_report,confusion_matrix,accuracy_score
-# from sklearn.model_selection import train_test_split
-# from string import punctuation
-# from gensim.models import Word2Vec
-# #import torchtext
-# #from torchtext.data import get_tokenizer
-# from nltk.tokenize import word_tokenize
-# #from torchtext.data.utils import get_tokenizer
-# #from torchtext.vocab import build_vocab_from_iterator 
-# #from torchnlp.encoders.text import StaticTokenizerEncoder,stack_and_pad_tensors,pad_tensor
-# from torch.nn.utils.rnn import pad_sequence
-
-#import keras
-#from keras.models import Sequential
-#from keras.layers import Dense,Embedding,LSTM,Dropout,Bidirectional,GRU
-#import tensorflow as tf
 
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', -1)
